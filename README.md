@@ -1,4 +1,4 @@
-
+# Eye and face detection with OpenCV, v3. using Haar cascades. 
 
 ```python
 import numpy as np
@@ -67,3 +67,5 @@ eyes = eye_cascade.detectMultiScale(gray)
 ```python
 
 ```
+## References:  
+* https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html  
